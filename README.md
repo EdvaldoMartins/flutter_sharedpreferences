@@ -1,5 +1,3 @@
-# flutter_sharedpreferences
-
 # Android & iOS
 
 Persistências de dados 
